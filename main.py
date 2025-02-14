@@ -27,8 +27,8 @@ st.write("Even if we make every effort to study today in order to remember it to
 cursed_love = convert_webp('images/cursedLove.webp')
 st.image(cursed_love, width=500)
 st.write("This is why I despise anything that stirs my emotions. I try my best to avoid them—especially YOU. I can’t "
-         "seem to control myself; I crave more of you, even though I know it’s destructive. Yet, no matter how hard I "
-         "try, I just can’t stop wanting you")
+         "seem to control myself; I crave more of YOU, even though I know it’s destructive. Yet, no matter how hard I "
+         "try, I just can’t stop wanting YOU.")
 
 destructive_path = convert_webp('images/destructive_path.webp')
 st.image(destructive_path, width=500)
@@ -38,9 +38,9 @@ st.write("This road leads to destruction—I know it, yet I can't stop walking. 
 destructive_growth = convert_webp('images/destructive_growth.webp')
 st.image(destructive_growth, width=500)
 st.write("Maybe destruction is necessary for growth. Maybe that’s the mindset that keeps me walking this road—or maybe, "
-         "I’m just addicted to you… to destruction")
+         "I’m just addicted to you… to destruction.")
 
 growth_illusion = convert_webp('images/growth_illusion.webp')
 st.image(growth_illusion, width=500)
 st.write("Which means I do know tomorrow—I just choose to ignore the destruction caused by yesterday’s decisions. "
-         "Because, in the end, we are pleasure-seeking beings… chasing the pleasure of you and the illusion of growth")
+         "Because, in the end, we are pleasure-seeking beings… chasing the pleasure of you and the illusion of growth.")
