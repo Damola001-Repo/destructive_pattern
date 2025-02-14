@@ -10,7 +10,7 @@ content = response.json()
 
 col1, col2 = st.columns(2)
 with col1:
-    st.title('Lost in Time & Thought')
+    st.title('Love; My Destructive Pattern')
 with col2:
     st.write('01012003')
 
