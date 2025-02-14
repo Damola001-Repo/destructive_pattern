@@ -8,12 +8,11 @@ url = 'https://api.nasa.gov/planetary/apod?api_key=YJhjhLUJNuTI7NIerE0nddxKwrAqg
 response = requests.get(url)
 content = response.json()
 
-st.set_page_config("Damola", layout="centered")
 col1, col2 = st.columns(2)
 with col1:
     st.title('Lost in Time & Thought')
 with col2:
-    st.write('Damola')
+    st.write('01012003')
 
 time = convert_webp('images/time.webp')
 st.image(time,width=500)
